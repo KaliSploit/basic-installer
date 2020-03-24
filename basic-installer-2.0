@@ -1,0 +1,25 @@
+figlet Basic Installer
+echo -------------------- Ubuntu Version 1.1.0------------------
+sudo apt-add-repository -y ppa:teejee2008/ppa
+sudo apt-add-repository ppa:webupd8team/atom
+sudo add-apt-repository ppa:openshot.developers/ppa
+sudo apt-get update
+sudo apt-get install conky-manager
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install chromium-browser
+sudo apt-get install skypeforlinux
+sudo apt-get install vlc
+sudo apt-get install pacman4console
+sudo apt-get install chromium-bsu
+sudo apt-get install gparted
+sudo apt-get install ranger
+sudo apt-get install mc
+sudo apt-get install qbittorrent
+sudo apt-get install thunderbird
+sudo apt-get install gtkballs
+sudo apt-get install bastet
+sudo apt-get install atom
+sudo apt-get install gimp
+sudo apt-get install doublecmd-qt
+sudo apt-get install openshot-qt
